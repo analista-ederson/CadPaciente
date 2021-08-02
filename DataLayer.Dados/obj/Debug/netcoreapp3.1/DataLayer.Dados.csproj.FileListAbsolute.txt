@@ -1,0 +1,26 @@
+C:\Users\ederson.silva\Desktop\Fábrica\Clientes\Be3\ProjetoTeste\DataLayer.Dados\bin\Debug\netcoreapp3.1\DataLayer.Dados.deps.json
+C:\Users\ederson.silva\Desktop\Fábrica\Clientes\Be3\ProjetoTeste\DataLayer.Dados\bin\Debug\netcoreapp3.1\DataLayer.Dados.dll
+C:\Users\ederson.silva\Desktop\Fábrica\Clientes\Be3\ProjetoTeste\DataLayer.Dados\bin\Debug\netcoreapp3.1\DataLayer.Dados.pdb
+C:\Users\ederson.silva\Desktop\Fábrica\Clientes\Be3\ProjetoTeste\DataLayer.Dados\obj\Debug\netcoreapp3.1\DataLayer.Dados.AssemblyInfoInputs.cache
+C:\Users\ederson.silva\Desktop\Fábrica\Clientes\Be3\ProjetoTeste\DataLayer.Dados\obj\Debug\netcoreapp3.1\DataLayer.Dados.AssemblyInfo.cs
+C:\Users\ederson.silva\Desktop\Fábrica\Clientes\Be3\ProjetoTeste\DataLayer.Dados\obj\Debug\netcoreapp3.1\DataLayer.Dados.csproj.CoreCompileInputs.cache
+C:\Users\ederson.silva\Desktop\Fábrica\Clientes\Be3\ProjetoTeste\DataLayer.Dados\obj\Debug\netcoreapp3.1\DataLayer.Dados.dll
+C:\Users\ederson.silva\Desktop\Fábrica\Clientes\Be3\ProjetoTeste\DataLayer.Dados\obj\Debug\netcoreapp3.1\DataLayer.Dados.pdb
+F:\TheONE\TesteB3Api\DataLayer.Dados\bin\Debug\netcoreapp3.1\DataLayer.Dados.deps.json
+F:\TheONE\TesteB3Api\DataLayer.Dados\bin\Debug\netcoreapp3.1\DataLayer.Dados.dll
+F:\TheONE\TesteB3Api\DataLayer.Dados\bin\Debug\netcoreapp3.1\DataLayer.Dados.pdb
+F:\TheONE\TesteB3Api\DataLayer.Dados\obj\Debug\netcoreapp3.1\DataLayer.Dados.csproj.AssemblyReference.cache
+F:\TheONE\TesteB3Api\DataLayer.Dados\obj\Debug\netcoreapp3.1\DataLayer.Dados.AssemblyInfoInputs.cache
+F:\TheONE\TesteB3Api\DataLayer.Dados\obj\Debug\netcoreapp3.1\DataLayer.Dados.AssemblyInfo.cs
+F:\TheONE\TesteB3Api\DataLayer.Dados\obj\Debug\netcoreapp3.1\DataLayer.Dados.csproj.CoreCompileInputs.cache
+F:\TheONE\TesteB3Api\DataLayer.Dados\obj\Debug\netcoreapp3.1\DataLayer.Dados.dll
+F:\TheONE\TesteB3Api\DataLayer.Dados\obj\Debug\netcoreapp3.1\DataLayer.Dados.pdb
+C:\Users\ederson.silva\Downloads\TesteB3Api (1)\DataLayer.Dados\bin\Debug\netcoreapp3.1\DataLayer.Dados.deps.json
+C:\Users\ederson.silva\Downloads\TesteB3Api (1)\DataLayer.Dados\bin\Debug\netcoreapp3.1\DataLayer.Dados.dll
+C:\Users\ederson.silva\Downloads\TesteB3Api (1)\DataLayer.Dados\bin\Debug\netcoreapp3.1\DataLayer.Dados.pdb
+C:\Users\ederson.silva\Downloads\TesteB3Api (1)\DataLayer.Dados\obj\Debug\netcoreapp3.1\DataLayer.Dados.csproj.AssemblyReference.cache
+C:\Users\ederson.silva\Downloads\TesteB3Api (1)\DataLayer.Dados\obj\Debug\netcoreapp3.1\DataLayer.Dados.AssemblyInfoInputs.cache
+C:\Users\ederson.silva\Downloads\TesteB3Api (1)\DataLayer.Dados\obj\Debug\netcoreapp3.1\DataLayer.Dados.AssemblyInfo.cs
+C:\Users\ederson.silva\Downloads\TesteB3Api (1)\DataLayer.Dados\obj\Debug\netcoreapp3.1\DataLayer.Dados.csproj.CoreCompileInputs.cache
+C:\Users\ederson.silva\Downloads\TesteB3Api (1)\DataLayer.Dados\obj\Debug\netcoreapp3.1\DataLayer.Dados.dll
+C:\Users\ederson.silva\Downloads\TesteB3Api (1)\DataLayer.Dados\obj\Debug\netcoreapp3.1\DataLayer.Dados.pdb
